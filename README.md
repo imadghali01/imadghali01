@@ -1,10 +1,18 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQH2OxsOo8MwiA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690531075163?e=1747872000&v=beta&t=35tG2vYDgaWmOm4U8MhzfmfPErIy4EOpRQ64ohF65Hs" alt="Banner" width="100%" height="400">
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQH2OxsOo8MwiA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690531075163?e=1747872000&v=beta&t=35tG2vYDgaWmOm4U8MhzfmfPErIy4EOpRQ64ohF65Hs" alt="Banner" width="80%" height="300">
+
+
+
 
 # Welcome to my GitHub
+
+
 
 Hello, my name is **Imad Ghali** and I am passionate about web development. I am currently seeking an **internship** or a **job** as a **full stack** web developer. Curious, motivated, and always looking for new challenges, I strive to stay on the cutting edge of web technologies.
 
 ---
+
+
+
 
 ## Tech Stack and Tools I Master
 
