@@ -6,8 +6,7 @@
 # Welcome to my GitHub
 
 
-
-Hello, my name is **Imad Ghali** and I am passionate about web development. I am currently seeking an **internship** or a **job** as a **full stack** web developer. Curious, motivated, and always looking for new challenges, I strive to stay on the cutting edge of web technologies.
+Hello, my name is Imad Ghali, and I am passionate about web development. After completing a 7‑month bootcamp at Becode, I am currently seeking an internship or a job as a full‑stack web developer. I am curious, motivated, and always eager for new challenges, and I strive to stay on the cutting edge of web technologies.
 
 ---
 
