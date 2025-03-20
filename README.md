@@ -46,7 +46,7 @@ Hello, my name is Imad Ghali, and I am passionate about web development. After c
 ---
 
 
-Find me on LinkedIn as well:
+Take a look on some of my UseCases:
 
 - [useCase_Elia_linkedin_post](https://www.linkedin.com/feed/update/urn:li:activity:7301236089304809472/)
 - [useCase_Elia_canva_UX] (https://eduty.my.canva.site/)
