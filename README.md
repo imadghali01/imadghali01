@@ -1,16 +1,42 @@
 ## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**imadghali01/imadghali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is **Imad Ghali** and I am passionate about web development. I am currently seeking an **internship** or a **job** as a **full stack** web developer. Curious, motivated, and always looking for new challenges, I strive to stay on the cutting edge of web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack and Tools I Master
+
+Here are some of the technologies and tools I work with:
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)  
+[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)  
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)  
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://docs.microsoft.com/fr-fr/dotnet/csharp/)  
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com)  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com)
+
+---
+
+## Contact Me
+
+Find me on LinkedIn as well:
+
+- [useCase_Elia_linkedin_post](https://www.linkedin.com/feed/update/urn:li:activity:7301236089304809472/)
+- [useCase_Elia_canva_UX] (https://eduty.my.canva.site/)
+- [useCase_Orange_linkedin_posts](https://www.linkedin.com/posts/imad-ghali_becode-orangebelgium-orangeishere-activity-7269264726642114561-SlE_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-mKUkBfG8BWToM-SWtSJniukLDnIraSaE)
+
+Don't hesitate to reach out for any collaboration or opportunity!
+
+---
+
+Thank you for visiting my GitHub profile!
