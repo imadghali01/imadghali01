@@ -46,7 +46,6 @@ Hello, my name is **Imad Ghali** and I am passionate about web development. I am
 
 ---
 
-## Contact Me
 
 Find me on LinkedIn as well:
 
