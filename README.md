@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Code Banner](https://source.unsplash.com/1200x300/?code)
+![Code Banner]([https://source.unsplash.com/1200x300/?code](https://media.licdn.com/dms/image/v2/D4D12AQH2OxsOo8MwiA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690531075163?e=1747872000&v=beta&t=35tG2vYDgaWmOm4U8MhzfmfPErIy4EOpRQ64ohF65Hs))
 
 # Welcome to my GitHub
 
